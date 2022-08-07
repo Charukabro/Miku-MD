@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['94740183053']
+global.OwnerNumber = ['94740183053']
+global.ownertag = ['9474018353']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Fantox"
